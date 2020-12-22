@@ -164,7 +164,7 @@ body {
   /* opacity: 70%; */
 }
 
-.reviews article {
+.reviews .card {
   background-color: hsl(300, 43%, 22%);
 }
 
